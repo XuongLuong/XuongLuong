@@ -64,7 +64,7 @@
  </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/lung.xuong.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/luong.xuong.7" height="30" width="40" /></a>
+<a href="https://www.facebook.com/luong.xuong.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/luong.xuong.7/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/luongxuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/luongxuong/" height="30" width="40" /></a>
 <a href="https://discord.gg/#4772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4772" height="30" width="40" /></a>
 
