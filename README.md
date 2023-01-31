@@ -7,7 +7,7 @@
 
 - 🎓 **Studing Network Engineer at Hutech University**
 
-- 👨‍💻 All of my projects are available at [https://github.com/XuongLuong](https://github.com/XuongLuong)
+- 👨‍💻 **All of my projects are available at** [https://github.com/XuongLuong](https://github.com/XuongLuong)
 
 - 📧 luongvanxuong2001@gmail.com
 
