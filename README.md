@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuongluong&label=Profile%20views&color=0e75b6&style=flat" alt="xuongluong" /> </p>
 
-- 🔭 I'm currently following an IoT Developer
+- 🔭 **I'm currently following an IoT Developer**
 
-- 🎓 Studing Network Engineer at Hutech University
+- 🎓 **Studing Network Engineer at Hutech University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/XuongLuong](https://github.com/XuongLuong)
 
 - 📧 luongvanxuong2001@gmail.com
 
-- 💬 **"Tuy lap trinh khong gioi, nhung toi chiu tim toi - Tuy hieu biet it nhung, khong ngai bo sung"**
+- 💬 *"Tuy lap trinh khong gioi, nhung toi chiu tim toi - Tuy hieu biet khong nhieu, lai khong ngai bo sung"*
 
 
 
