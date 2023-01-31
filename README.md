@@ -9,7 +9,7 @@
 
 - 👨‍💻 **All of my projects are available at** [https://github.com/XuongLuong](https://github.com/XuongLuong)
 
-- 📧 luongvanxuong2001@gmail.com
+- 📧 **Contact with me:** luongvanxuong2001@gmail.com
 
 - 💬 *"Tuy lap trinh khong gioi, nhung toi chiu tim toi - Tuy hieu biet khong nhieu, lai khong ngai bo sung"*
 
