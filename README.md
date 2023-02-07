@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuongluong&label=Profile%20views&color=0e75b6&style=flat" alt="xuongluong" /> </p>
 
-- 🔭 **I'm currently following an IoT Developer**
+- 🔭 **I am aiming to be a Computer Network Nngineer**
 
 - 🎓 **Studing Network Engineer at Hutech University**
 
