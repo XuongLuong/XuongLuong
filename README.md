@@ -1,17 +1,17 @@
-<h1 align="center">Hi👋, I'm Xuong</h1>
+<h1 align="center">Hi👋, I'm Xuong Luong </h1>
 <h3 align="center">#LifeisSimple#</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuongluong&label=Profile%20views&color=0e75b6&style=flat" alt="xuongluong" /> </p>
 
-- 🔭 **I am aiming to be a Computer Network Engineer**
+- 🎓 **Studied Network Engineer at Hutech University**
 
-- 🎓 **Studing Network Engineer at Hutech University**
+- 🔭 **I am a Network and Security Engineer at Lien Phat Technology Corporation**
 
 - 👨‍💻 **All of my projects are available at** [https://github.com/XuongLuong](https://github.com/XuongLuong)
 
 - 📧 **Contact with me:** luongvanxuong2001@gmail.com
 
-- 💬 *"Tuy lap trinh khong gioi, nhung toi chiu tim toi - Tuy hieu biet khong nhieu, lai khong ngai bo sung"*
+- 💬 *"Tuy lap trinh khong gioi, nen moi lam nét quợt và sờ ciu ri ty"*
 
 
 
