@@ -5,7 +5,7 @@
 
 - 🎓 **Studied Network Engineer at Hutech University**
 
-- 🔭 **I am a Network and Security Engineer at Lien Phat Technology Corporation**
+- 🔭 **I am a Network and Security Engineer at Talentnet Corporation**
 
 - 👨‍💻 **All of my projects are available at** [https://github.com/XuongLuong](https://github.com/XuongLuong)
 
