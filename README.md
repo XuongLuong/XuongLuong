@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuongluong&label=Profile%20views&color=0e75b6&style=flat" alt="xuongluong" /> </p>
 
-- 🎓 **Studied Network Engineer at Hutech University**
+- 🎓 **Studied Network & Security Engineer at Hutech University**
 
 - 🔭 **I am a Network and Security Engineer at Talentnet Corporation**
 
